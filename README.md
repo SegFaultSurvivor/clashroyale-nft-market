@@ -3,12 +3,12 @@
 ## Demo
 
 ### 📸 Project Screenshot
-<img width="1280" alt="Screenshot" src="https://github.com/YourUsername/opend/blob/main/public/images/homepage.png">
-<img width="1280" alt="Screenshot" src="https://github.com/YourUsername/opend/blob/main/public/images/mint-nft.png">
-<img width="1280" alt="Screenshot" src="https://github.com/YourUsername/opend/blob/main/public/images/marketplace.png">
+<img width="1280" alt="Screenshot" src="https://github.com/SegFaultSurvivor/clashroyale-nft-market/blob/2a15e5906166f819529b63815331ab6256ddc283/src/opend_frontend/public/mynfts.png">
+<img width="1280" alt="Screenshot" src="https://github.com/SegFaultSurvivor/clashroyale-nft-market/blob/2a15e5906166f819529b63815331ab6256ddc283/src/opend_frontend/public/discover.png">
+<img width="1280" alt="Screenshot" src="https://github.com/SegFaultSurvivor/clashroyale-nft-market/blob/2a15e5906166f819529b63815331ab6256ddc283/src/opend_frontend/public/mint_nft.png">
 
 ### 🎥 Watch the Demo Video  
-[OpenD Walkthrough Video](https://github.com/YourUsername/opend/blob/main/public/videos/demo.mp4)
+[OpenD Walkthrough Video](https://github.com/SegFaultSurvivor/clashroyale-nft-market/blob/2a15e5906166f819529b63815331ab6256ddc283/src/opend_frontend/public/openD.mp4)
 
 ---
 
