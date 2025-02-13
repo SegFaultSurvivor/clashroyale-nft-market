@@ -1,3 +1,27 @@
+# 💎 OpenD - Clash Royale NFT Marketplace 💎
+
+## Demo
+
+### 📸 Project Screenshot
+<img width="1280" alt="Screenshot" src="https://github.com/YourUsername/opend/blob/main/public/images/homepage.png">
+<img width="1280" alt="Screenshot" src="https://github.com/YourUsername/opend/blob/main/public/images/mint-nft.png">
+<img width="1280" alt="Screenshot" src="https://github.com/YourUsername/opend/blob/main/public/images/marketplace.png">
+
+### 🎥 Watch the Demo Video  
+[OpenD Walkthrough Video](https://github.com/YourUsername/opend/blob/main/public/videos/demo.mp4)
+
+---
+
+## Highlights:
+
+- 🌟 **Tech Stack**: React, Motoko, Internet Computer (ICP)
+- 🛒 **NFT Marketplace**: Mint and sell Clash Royale NFTs
+- 💰 **Initium Token Integration**: Custom cryptocurrency for transactions
+- 🔗 **Decentralized Storage**: Secure and immutable NFT ownership
+- ⚡ **Fast Transactions**: Built on the ICP blockchain for low-latency trading
+
+---
+
 # To Install and Run the Project
 
 1. start local dfx
