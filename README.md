@@ -1,4 +1,4 @@
-# 💎 OpenD - Clash Royale NFT Marketplace 💎
+# 🤴🏻 OpenD - Clash Royale NFT Marketplace 🏰
 
 ## Demo
 
